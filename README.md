@@ -98,8 +98,7 @@ En esta página se analiza la rentabilidad del negocio a través de:
 📷 *(Insertar Dashboard_Rentabilidad.png)*
 
 ---
-
-# 💡 Principales hallazgos
+Principales hallazgos
 
 Durante el análisis se identificaron los siguientes resultados:
 
