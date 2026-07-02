@@ -28,8 +28,6 @@ Herramientas utilizadas
 | Modelo Estrella | Modelado de datos |
 
 ---
- Modelo de datos
-
 Se diseñó un modelo estrella para optimizar el análisis y facilitar la creación de indicadores.
 
 - Fact_Ventas
@@ -39,12 +37,12 @@ Se diseñó un modelo estrella para optimizar el análisis y facilitar la creaci
 - Dim_Sedes
 - Calendario
 
-📷 **Modelo de datos**
+ **Modelo de datos**
 
 <img width="177" height="781" alt="Modelo_Estrella" src="https://github.com/user-attachments/assets/5610da84-c8c6-410f-bb84-dd72bce837d3" />
 
 
- Indicadores desarrollados
+Indicadores desarrollados
 
 Durante el proyecto se construyeron indicadores como:
 
@@ -56,7 +54,7 @@ Durante el proyecto se construyeron indicadores como:
 -  Utilidad Promedio por Venta
 
 ---
- Dashboard
+Dashboard
 
 Resumen Ejecutivo
 
@@ -75,7 +73,7 @@ Incluye una visión general del negocio mediante indicadores de desempeño y vis
 <img width="1302" height="732" alt="Dashboard_resumen" src="https://github.com/user-attachments/assets/88ab1f6f-325f-4f2f-af9d-5e2807814db3" />
 
 
- Página 2 - Análisis de Clientes
+Página 2 - Análisis de Clientes
 
 Esta sección permite conocer el comportamiento de los clientes mediante:
 
@@ -88,7 +86,7 @@ Esta sección permite conocer el comportamiento de los clientes mediante:
 
 ---
 
-## 💰 Página 3 - Análisis de Rentabilidad
+Página 3 - Análisis de Rentabilidad
 
 En esta página se analiza la rentabilidad del negocio a través de:
 
@@ -109,22 +107,11 @@ Durante el análisis se identificaron los siguientes resultados:
 - La marca **Vogue** registra el mayor margen porcentual.
 - Los clientes mayores de **60 años** representan el segmento predominante.
 - Se identificaron oportunidades de crecimiento en categorías con menor desempeño.
-- El análisis permitió identificar los productos con mayor contribución a la utilidad.
-
+- El análisis permitió identificar los productos con mayor contribución a la utilidad
+  
 ---
 
-# 📌 Recomendaciones de negocio
-
-Con base en los resultados obtenidos se proponen las siguientes acciones:
-
-- Fortalecer campañas comerciales para la categoría Gafas de Sol.
-- Diseñar estrategias para incrementar la participación de categorías con menor rentabilidad.
-- Analizar el comportamiento de los productos con mayor utilidad para replicar sus características en otras líneas de negocio.
-- Realizar seguimiento periódico de los indicadores para medir el impacto de las decisiones comerciales.
-
----
-
-# 🚀 Competencias demostradas
+Competencias demostradas
 
 Durante este proyecto se aplicaron conocimientos en:
 
@@ -137,9 +124,6 @@ Durante este proyecto se aplicaron conocimientos en:
 - Interpretación de resultados
 - Generación de recomendaciones para el negocio
 
----
-
-# 👩‍💻 Autor
 
 **Karol Juliana Rodríguez**
 
