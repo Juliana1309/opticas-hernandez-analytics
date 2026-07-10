@@ -82,10 +82,6 @@ Esta sección permite conocer el comportamiento de los clientes mediante:
 - Clientes por ciudad
 - Clientes con mayor volumen de compras
 
-📷 *(Insertar Dashboard_Clientes.png)*
-
----
-
 Página 3 - Análisis de Rentabilidad
 
 En esta página se analiza la rentabilidad del negocio a través de:
@@ -94,9 +90,6 @@ En esta página se analiza la rentabilidad del negocio a través de:
 - Margen por marca
 - Productos más rentables
 - Relación entre ventas y utilidad
-
-📷 *(Insertar Dashboard_Rentabilidad.png)*
-
 ---
 Principales hallazgos
 
@@ -107,8 +100,6 @@ Durante el análisis se identificaron los siguientes resultados:
 - Los clientes mayores de **60 años** representan el segmento predominante.
 - Se identificaron oportunidades de crecimiento en categorías con menor desempeño.
 - El análisis permitió identificar los productos con mayor contribución a la utilidad
-  
----
 
 Competencias demostradas
 
